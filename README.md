@@ -10,4 +10,7 @@ This is a simple Todo-list REST API built on top of ASP.NET Core 2 and Microsoft
 
 # Usage
 
-The application runs on https://localhost:5001. To test it, please use the Swagger documentation on https://localhost:5001/swagger and the following Postman collection https://localhost:5001/swagger.
+The application runs on https://localhost:5001. To test it, please use the following resources:
+
+* __Swagger documentation:__ https://localhost:5001/swagger 
+* __Postman collection:__ https://www.getpostman.com/collections/e5e4033331c6852970f5
